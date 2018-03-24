@@ -1,0 +1,33 @@
+// All biographies are from wikipedia.
+
+{
+  "data" :[
+    { "title" : "Bottle Rocket", 
+      "year" : "1996",
+ 	  "director" : "Wes Anderson",
+ 	  "genre" : "Comedy",
+ 	  "rating" : "7.1",
+ 	  "cast" : ["Luke Wilson", "Owen Wilson"]},
+
+    { "title" : "Rushmore", 
+      "year" : "1998",
+ 	  "director" : "Wes Anderson",
+ 	  "genre" : "Drama",
+ 	  "rating" : "7.7",
+ 	  "cast" : ["Jason Schwartzman", "Bill Murray"]},
+
+ 	{ "title" : "The Royal Tenenbaums", 
+      "year" : "2001",
+ 	  "director" : "Wes Anderson",
+ 	  "genre" : "Comedy",
+ 	  "rating" : "7.6",
+ 	  "cast" : ["Gene Hackman", "Anjelica Huston"]},
+
+    { "title" : "The Life Aquatic with Steve Zissou", 
+      "year" : "2004",
+ 	  "director" : "Wes Anderson",
+ 	  "genre" : "Adventure",
+ 	  "rating" : "7.3",
+ 	  "cast" : ["Bill Murray", "Owen Wilson"]},
+  ]
+}
