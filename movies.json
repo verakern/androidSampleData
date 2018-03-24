@@ -7,6 +7,7 @@
  	  "director" : "Wes Anderson",
  	  "genre" : "Comedy",
  	  "rating" : "7.1",
+      "image" : "@sample/bottlerocket",
  	  "cast" : ["Luke Wilson", "Owen Wilson"]},
 
     { "title" : "Rushmore", 
@@ -14,6 +15,7 @@
  	  "director" : "Wes Anderson",
  	  "genre" : "Drama",
  	  "rating" : "7.7",
+      "image" : "@sample/rushmore",
  	  "cast" : ["Jason Schwartzman", "Bill Murray"]},
 
  	{ "title" : "The Royal Tenenbaums", 
@@ -21,6 +23,7 @@
  	  "director" : "Wes Anderson",
  	  "genre" : "Comedy",
  	  "rating" : "7.6",
+      "image" : "@sample/tenenbaums",
  	  "cast" : ["Gene Hackman", "Anjelica Huston"]},
 
     { "title" : "The Life Aquatic with Steve Zissou", 
@@ -28,6 +31,7 @@
  	  "director" : "Wes Anderson",
  	  "genre" : "Adventure",
  	  "rating" : "7.3",
+      "image" : "@sample/lifeaquatic",
  	  "cast" : ["Bill Murray", "Owen Wilson"]},
   ]
 }
