@@ -1,37 +1,48 @@
-// All biographies are from wikipedia.
-
 {
   "data" :[
-    { "title" : "Bottle Rocket", 
-      "year" : "1996",
- 	  "director" : "Wes Anderson",
- 	  "genre" : "Comedy",
- 	  "rating" : "7.1",
-      "image" : "@sample/bottlerocket",
- 	  "cast" : ["Luke Wilson", "Owen Wilson"]},
+	  {
+	  "id" : "0",
+	  "name": "Bottle Rocket",
+	  "director": "Wes Anderson",
+	  "genres": "Comedy",
+	  "duration": "91 min",
+	  "posterUrl": "@sample/bottlerocket",
+	  "actors": "Luke Wilson, Owen Wilson",
+	  "description": "Upon his release from a mental hospital following a nervous breakdown, the directionless Anthony joins his friend Dignan, who seems far less sane than the former. Dignan has hatched a hare-brained scheme for an as-yet-unspecified crime spree that somehow involves his former boss, the (supposedly) legendary Mr. Henry. With the help of their pathetic neighbor and pal Bob, Anthony and Dignan pull a job and hit the road, where Anthony finds love with motel maid Inez. When our boys finally hook up with Mr. Henry, the ensuing escapade turns out to be far from what anyone expected."
+	  },
+	  {
+	  "id" : "1",
+	  "name": "Rushmore",
+	  "director": "Wes Anderson",
+	  "genres": "Drama",
+	  "duration": "93 min",
+	  "posterUrl": "@sample/rushmore",
+	  "actors": "Jason Schwartzman, Bill Murray",
+	  "description": "Max Fischer is a precocious 15-year-old whose reason for living is his attendance at Rushmore, a private school where he's not doing well in any of his classes, but where he's the king of extracurricular activities - from being in the beekeeping society to writing and producing plays, there's very little after school he doesn't do. His life begins to change, however, when he finds out he's on academic probation, and when he stumbles into love with Miss Cross, a pretty teacher of the elementary school at Rushmore. Added to the mix is his friendship with Herman Blume, wealthy industrialist and father to boys who attend the school, and who also finds himself attracted to Miss Cross. Max's fate becomes inextricably tied to this odd love triangle, and how he sets about resolving it is the story in the film."
+	  },
 
-    { "title" : "Rushmore", 
-      "year" : "1998",
- 	  "director" : "Wes Anderson",
- 	  "genre" : "Drama",
- 	  "rating" : "7.7",
-      "image" : "@sample/rushmore",
- 	  "cast" : ["Jason Schwartzman", "Bill Murray"]},
+	  {
+	  "id" : "2",
+	  "name": "The Royal Tenenbaums",
+	  "year": "2001",
+	  "director": "Wes Anderson",
+	  "genres": "Comedy",
+	  "duration": "110 min",
+	  "posterUrl": "@sample/tenenbaums",
+	  "actors": "Gene Hackman, Anjelica Huston",
+	  "description": "Three grown prodigies, all with a unique genius of some kind, and their mother are staying at the family household. Their father, Royal had left them long ago, and comes back to make things right with his family."
+	  },
 
- 	{ "title" : "The Royal Tenenbaums", 
-      "year" : "2001",
- 	  "director" : "Wes Anderson",
- 	  "genre" : "Comedy",
- 	  "rating" : "7.6",
-      "image" : "@sample/tenenbaums",
- 	  "cast" : ["Gene Hackman", "Anjelica Huston"]},
-
-    { "title" : "The Life Aquatic with Steve Zissou", 
-      "year" : "2004",
- 	  "director" : "Wes Anderson",
- 	  "genre" : "Adventure",
- 	  "rating" : "7.3",
-      "image" : "@sample/lifeaquatic",
- 	  "cast" : ["Bill Murray", "Owen Wilson"]},
+	  {
+	  "id" : "3",
+	  "name": "The Life Aquatic with Steve Zissou",
+	  "year": "2004",
+	  "director": "Wes Anderson",
+	  "genres": "Adventure",
+	  "duration": "119 min",
+	  "posterUrl": "@sample/lifeaquatic",
+	  "actors": "Bill Murray, Owen Wilson",
+	  "description": "When his partner is killed by the mysterious and possibly nonexistent Jaguar Shark, Steve Zissou and his Team Zissou crew set off for an expedition to hunt down the creature. Along with his estranged wife, a beautiful journalist and a co-pilot who could possibly be Zissou's son, the crew set off for one wild expedition. "
+	  }
   ]
 }
