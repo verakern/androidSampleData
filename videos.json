@@ -1,0 +1,53 @@
+{
+  "data" :[
+    {
+      "id" : "0",
+      "title": "Cute cat",
+      "director": "Black bella",
+      "duration": "135",
+      "videoUrl": "",
+      "imageUrl": "",
+      "description": "Cute cat doing cute things"
+    },
+
+    {
+      "id" : "1",
+      "title": "Cute dog",
+      "director": "Luna Love",
+      "duration": "162",
+      "videoUrl": "",
+      "imageUrl": "",
+      "description": "Cute dog doing cute things"
+    },
+
+    {
+      "id" : "2",
+      "title": "Cute bunny",
+      "director": "Cinnabun",
+      "duration": "173",
+      "videoUrl": "",
+      "imageUrl": "",
+      "description": "Cute bunny doing cute things"
+    },
+
+    {
+      "id" : "3",
+      "title": "Cute pig",
+      "director": "Kevin Bacon",
+      "duration": "63",
+      "videoUrl": "",
+      "imageUrl": "",
+      "description": "Cute pig doing cute things"
+    },
+
+    {
+      "id" : "4",
+      "title": "Cute goat",
+      "director": "Lenny Lambert",
+      "duration": "55",
+      "videoUrl": "",
+      "imageUrl": "",
+      "description": "Cute goat doing cute things"
+    }
+    ]
+}
