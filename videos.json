@@ -1,5 +1,5 @@
 {
-  "data" :[
+  [
     {
       "id" : "0",
       "title": "Cute cat",
@@ -49,5 +49,5 @@
       "imageUrl": "",
       "description": "Cute goat doing cute things"
     }
-    ]
+  ]
 }
