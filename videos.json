@@ -1,5 +1,4 @@
-{
-  "data" :[
+[
     {
       "id" : "0",
       "title": "Cute cat",
@@ -54,5 +53,4 @@
       "watch_progress" : "0",
       "description": "Cute goat doing cute things"
     }
-    ]
-}
+]
