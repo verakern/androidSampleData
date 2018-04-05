@@ -1,4 +1,5 @@
-[
+{
+  "data" :[
     {
       "id" : "0",
       "title": "Cute cat",
@@ -6,6 +7,7 @@
       "duration": "135",
       "videoUrl": "",
       "imageUrl": "",
+      "watch_progress" : "0",
       "description": "Cute cat doing cute things"
     },
 
@@ -16,6 +18,7 @@
       "duration": "162",
       "videoUrl": "",
       "imageUrl": "",
+      "watch_progress" : "25",
       "description": "Cute dog doing cute things"
     },
 
@@ -26,6 +29,7 @@
       "duration": "173",
       "videoUrl": "",
       "imageUrl": "",
+      "watch_progress" : "100",
       "description": "Cute bunny doing cute things"
     },
 
@@ -36,6 +40,7 @@
       "duration": "63",
       "videoUrl": "",
       "imageUrl": "",
+      "watch_progress" : "0",
       "description": "Cute pig doing cute things"
     },
 
@@ -46,6 +51,8 @@
       "duration": "55",
       "videoUrl": "",
       "imageUrl": "",
+      "watch_progress" : "0",
       "description": "Cute goat doing cute things"
     }
-]
+    ]
+}
