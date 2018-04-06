@@ -5,8 +5,9 @@
       "director": "Black bella",
       "duration": "135",
       "videoUrl": "",
-      "imageUrl": "",
-      "watch_progress" : "0",
+      "imageUrl": "http://www.cutestpaw.com/wp-content/uploads/2011/11/To-infinity-and-beyond.jpeg",
+      "backgroundImageUrl" : "https://images.theconversation.com/files/204986/original/file-20180206-14104-1hyhea9.jpg?ixlib=rb-1.1.0&rect=0%2C1212%2C5550%2C2775&q=45&auto=format&w=1356&h=668&fit=crop",
+      "watchProgress" : "0",
       "description": "Cute cat doing cute things"
     },
 
@@ -16,8 +17,9 @@
       "director": "Luna Love",
       "duration": "162",
       "videoUrl": "",
-      "imageUrl": "",
-      "watch_progress" : "25",
+      "imageUrl": "http://www.petguide.com/wp-content/uploads/2013/05/cute-dog-names-11.jpg",
+      "backgroundImageUrl" : "https://www.hd-wallpapersdownload.com/script/bulk-upload/hd-cute-dog-images-pics.jpg",
+      "watchProgress" : "25",
       "description": "Cute dog doing cute things"
     },
 
@@ -27,8 +29,9 @@
       "director": "Cinnabun",
       "duration": "173",
       "videoUrl": "",
-      "imageUrl": "",
-      "watch_progress" : "100",
+      "imageUrl": "http://www.kickvick.com/wp-content/uploads/2015/09/cutest-bunny-rabbits-a-23.jpg",
+      "backgroundImageUrl" : "http://bighdwalls.com/wp-content/uploads/cute-bunny-HD-Wall.jpg",
+      "watchProgress" : "100",
       "description": "Cute bunny doing cute things"
     },
 
@@ -38,8 +41,9 @@
       "director": "Kevin Bacon",
       "duration": "63",
       "videoUrl": "",
-      "imageUrl": "",
-      "watch_progress" : "0",
+      "imageUrl": "https://tailandfur.com//wp-content/uploads/2014/12/Cute-Pig-Pictures-1.jpg",
+      "backgroundImageUrl" : "http://1.bp.blogspot.com/-4T7UyoEW_Pg/T_8rJw6ZXxI/AAAAAAAAB48/BHoyOakE4jo/s1600/two-pigs-hd-animal-wallpaper-pigs.jpg",
+      "watchProgress" : "0",
       "description": "Cute pig doing cute things"
     },
 
@@ -49,8 +53,9 @@
       "director": "Lenny Lambert",
       "duration": "55",
       "videoUrl": "",
-      "imageUrl": "",
-      "watch_progress" : "0",
+      "imageUrl": "https://media.mnn.com/assets/images/2016/07/cute-baby-goat.jpg.653x0_q80_crop-smart.jpg",
+      "backgroundImageUrl" : "http://www.sciencemag.org/sites/default/files/styles/article_main_large/public/images/sn-goats.jpg?itok=YVJzDOfb",
+      "watchProgress" : "0",
       "description": "Cute goat doing cute things"
     }
 ]
